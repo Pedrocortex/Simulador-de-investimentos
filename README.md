@@ -1,4 +1,4 @@
-# Investment Simulator
+# README
 Digital Innovation One (DIO) - Excel com Inteligência artificial - Desafios de Projeto
 
 An Excel-based investment simulator developed to help users analyze the long-term growth of their investments through automated calculations and interactive charts.
